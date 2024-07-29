@@ -1,11 +1,11 @@
-# Redbus_data_scraping_by_using_Selenium_and_run_streamlite_application
+# Redbus_data_scraping_by_using_Selenium_and_run_streamlite_application_with_dynamic_filters
 project Redbus extraxt the information about the GOV bus schedule, fare, seatavailablity and other information by using Selenium.
 
 Data Scraping:
-Use Selenium to automate the extraction of Redbus data including routes, schedules, prices, and seat availability.
+Used Selenium to automate the extraction of Redbus data including routes, schedules, prices, and seat availability.
 
 Data Storage:
-Store the data in SQL database.
+used SQL database.
 
 Business Use Cases:
 
